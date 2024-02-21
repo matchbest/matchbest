@@ -12,8 +12,8 @@
 - Machine Learning
 - Portfolio site: [Portfolio](https://pushpneetsingh.netlify.com/)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=PushpneetSingh&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=matchbest&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=PushpneetSingh.PushpneetSingh)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=matchbest.matchbest)
 
 ```⭐️ From [PushpneetSingh](https://github.com/PushpneetSingh)```
