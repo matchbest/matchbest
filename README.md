@@ -8,7 +8,7 @@
 ## 😃 Talk to me about!!
 
 - Front-end development using **HTML, Javascript,CSS,Bootstrap, Vue JS**
-- Backend development using **Node Js**
+- Backend development using **Node Js, Go, Django, ASP.Net**
 - Machine Learning
 - Portfolio site: [Portfolio](https://pushpneetsingh.netlify.com/)
 
