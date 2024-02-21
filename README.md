@@ -16,4 +16,4 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=matchbest.matchbest)
 
-```⭐️ From [PushpneetSingh](https://github.com/PushpneetSingh)```
+```⭐️ From [matchbest](https://github.com/matchbest)```
