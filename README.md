@@ -1,8 +1,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 MATCHBEST<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-![rating](https://img.shields.io/badge/rating-★★★★★-brightgreen)
-![quality](https://img.shields.io/badge/highest-100%25-brightgreen)
-![salary](https://img.shields.io/badge/Rate-25.00%20USD%2Fhour-yellow)
+![rating](https://img.shields.io/badge/Rating-★★★★★-brightgreen)
+![quality](https://img.shields.io/badge/Quality-100%25-brightgreen)
 
 
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
